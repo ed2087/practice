@@ -1,0 +1,9 @@
+ul{
+    padding: 1em;
+}
+    li{
+        font-size: 1.5rem;
+        padding: 5px;
+        margin: 5px;
+        color: white;
+    }
